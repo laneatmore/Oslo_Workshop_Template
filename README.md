@@ -1,4 +1,4 @@
-# Exploring Cod Demography with BAMscorer repository
+# Exploring Cod Demography with BAMscorer 
 
 Cite this study: Atmore et al. 2021. Exploreing Cod Demography. _Journal of Seachanges ITN_. doi: 14059dxseachanges
 
