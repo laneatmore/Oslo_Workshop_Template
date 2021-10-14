@@ -1,6 +1,6 @@
 # Exploring Cod Demography with BAMscorer 
 
-Cite this study: Atmore et al. 2021. Exploreing Cod Demography. _Journal of Seachanges ITN_. doi: 14059dxseachanges
+Cite this study: Atmore et al. 2021. Exploring Cod Demography. _Journal of Seachanges ITN_. doi: 14059dxseachanges
 
 Data is available at: _ENA accession code/Dryad link/etc_ \
 **DO NOT ACTUALLY MAKE YOUR DATA AVAILABLE**
